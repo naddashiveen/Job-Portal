@@ -1,1 +1,2 @@
 # Job-Portal
+The Job Portal is a MERN stack application that allows users to browse and post job listings. It includes a backend built with Express and MongoDB for handling job postings, and a React frontend for users to view job listings and submit new job details. Employers can add job information, while job seekers can view available positions, making it a functional and straightforward solution for job search and job posting.
